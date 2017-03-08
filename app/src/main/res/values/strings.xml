@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+
+
+    <string name="nombre_mascota">Curry</string>
+    <string name="megusta">1</string>
+    <string name="garra"></string>
+
+
+    //variables paso parámetros
+
+    <string name="pnombre_mascota">nombre</string>
+    <string name="pnombre_megusta">1</string>
+
+
+</resources>
